@@ -1,0 +1,289 @@
+@charset "utf-8"; /* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (min-width: 1200px) {
+}
+@media only screen and (min-width: 993px) {
+}
+@media only screen and (min-width: 992px) {
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+  .header ul {
+    display: none;
+  }
+  .header .logo-section h4 {
+    display: none;
+  }
+  .header .logo-section {
+    padding: 0px;
+  }
+  .header .logo-section img {
+    padding-top: 5px;
+  }
+  .pool-section .help {
+    width: 100%;
+    margin-top: 30px !important;
+  }
+  .pool-section .box-section {
+    margin-top: 20px;
+  }
+  .navbar .navbar-brand span {
+    display: none;
+  }
+  /* .navbar .right-side .modal .modal-content .modal-body-1 ul{display: block;} */
+  .navbar .right-side .modal .modal-content .modal-body-1 ul li a {
+    padding: 7px 21px !important;
+  }
+  .navbar .right-side .modal .modal-content .modal-body-1 ul li {
+    margin-bottom: 10px;
+  }
+  .forms-section
+    .checkout-form-centre
+    .checkout-login-step
+    .product-body
+    .modal-body-1
+    ul
+    li
+    a {
+    padding: 7px 21px !important;
+  }
+  .navbar .right-side ul li .sr-btn {
+    font-size: 16px !important;
+    padding: 8px 15px !important;
+    min-width: 0px;
+  }
+  .navbar-default .navbar-brand {
+    width: 70px;
+  }
+  .navbar .right-side ul li .btn .title {
+    display: block;
+    margin-left: 37px;
+    margin-right: 4px;
+  }
+
+  .forms-section
+    .checkout-form-centre-5
+    .checkout-login-step
+    .box-section
+    .first-box-section
+    .first-top
+    .title {
+    font-size: 16px;
+    font-weight: normal;
+  }
+  .forms-section
+    .checkout-form-centre-5
+    .checkout-login-step
+    .box-section
+    .first-box-section
+    .first-bottom
+    .content
+    .title {
+    font-size: 16px;
+    font-weight: normal;
+  }
+  /*------------ 03-12-2021 -----------*/
+  .forms-section
+    .checkout-form-centre
+    .checkout-login-step
+    .calculator
+    .add-liquidity {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .forms-section
+    .checkout-form-centre
+    .checkout-login-step
+    .calculator
+    .add-liquidity
+    .content
+    .label {
+    padding: 0px;
+  }
+  .forms-section .checkout-form-centre .checkout-login-step {
+    padding: 30px 30px;
+  }
+  .forms-section
+    .checkout-form-centre-6
+    .checkout-login-step
+    .table-section
+    .t-header
+    .t-data {
+    width: 100%;
+  }
+  .cardence-staking .staking-info {
+    margin-top: 30px;
+  }
+  .cardence-staking .staking-info {
+    width: 100%;
+    padding: 50px 20px 50px 20px;
+  }
+  .cardence-staking .staking-info .all-info .label {
+    font-size: 21px;
+  }
+  .cardence-staking .staking-info .all-info .label-per {
+    font-size: 21px;
+  }
+  .cardence-staking .staking-info .all-info .label-1 {
+    font-size: 14px;
+  }
+  .cardence-staking .staking-info .all-info .label-per-1 {
+    font-size: 16px;
+  }
+  .cardence-staking .dashboard {
+    margin-top: 10px;
+  }
+  .cardence-staking .border-back {
+    top: 7%;
+    left: 2%;
+    height: 95%;
+    width: 89%;
+  }
+  .title-1 {
+    padding: 0px;
+  }
+  .title-1 h1 {
+    font-size: 30px;
+  }
+  .cardence-staking {
+    padding: 50px 0px 50px 0px;
+  }
+  .forms-section .checkout-form-centre-5 .checkout-login-step {
+    padding: 36px 15px !important;
+  }
+  .forms-section .checkout-form-centre-6 .checkout-login-step {
+    padding: 36px 15px !important;
+  }
+  /* .forms-section .checkout-form-centre{padding: 15px;} */
+  .forms-section .checkout-form-centre-5 .checkout-login-step .box-section {
+    display: block;
+  }
+  .forms-section
+    .checkout-form-centre-5
+    .checkout-login-step
+    .box-section
+    .first-box-section
+    .first-top
+    h4 {
+    font-size: 16px;
+    font-weight: normal;
+  }
+  .forms-section
+    .checkout-form-centre-5
+    .checkout-login-step
+    .box-section
+    .first-box-section
+    .first-bottom
+    .content
+    h4 {
+    font-size: 16px;
+    font-weight: normal;
+  }
+  .forms-section
+    .checkout-form-centre-5
+    .checkout-login-step
+    .box-section
+    .first-box-section
+    .first-bottom {
+    display: block;
+  }
+  .forms-section
+    .checkout-form-centre-5
+    .checkout-login-step
+    .box-section
+    .first-box-section
+    .first-bottom
+    .content {
+    width: 100%;
+    margin-bottom: 25px;
+  }
+  /* .forms-section .checkout-form-centre-5 .checkout-login-step .box-section .first-box-section .first-bottom .content:first-child{border-bottom: 1px solid #ffffff;padding-bottom: 25px;} */
+  .forms-section
+    .checkout-form-centre
+    .checkout-login-step
+    .add-liquidity
+    .balence {
+    display: block;
+  }
+  .forms-section .checkout-form-centre .checkout-login-step {
+    padding: 49px 15px !important;
+  }
+  .forms-section
+    .checkout-form-centre
+    .checkout-login-step
+    .add-liquidity
+    .balence
+    h6 {
+    width: 100%;
+    text-align: left !important;
+  }
+  .cardence-staking .staking-info .all-info .brise-stacked {
+    font-size: 18px;
+  }
+}
+
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+}
+
+@media only screen and (min-width: 768px) {
+}
+
+/*---------- MEDIA 480px ----------*/
+@media (max-width: 768px) {
+}
+@media (max-width: 480px) {
+}
+@media (max-width: 991px) {
+}
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+}
+
+@media only screen and (max-width: 991.98px) {
+}
+
+@media only screen and (max-width: 767.98px) {
+}
+@media (min-width: 576px) {
+  .modal-dialog {
+    max-width: 440px;
+  }
+  .navbar .right-side ul li .btn .title {
+    display: block;
+    margin-left: 37px;
+    margin-right: 4px;
+  }
+  .navbar-nav .modal-dialog {
+    max-width: 560px;
+  }
+}
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+}
+@media (min-width: 600px) {
+  .forms-section
+    .checkout-form-centre-5
+    .checkout-login-step
+    .box-section
+    .first-box-section {
+    width: 45%;
+  }
+}
