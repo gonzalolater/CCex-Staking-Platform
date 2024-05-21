@@ -26,5 +26,6 @@ Conclusion:
 * Words inciting to kill are found within the code.
 * This program was developed with the intention that the developer and God only know how it works.
 * Inside package.json there is a duplicate object key.
+* runs on port 8080 not on port 3000.
 
 # Audit time: 3 hours.
